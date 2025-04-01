@@ -1,5 +1,5 @@
 let nome = `Davi`;
 let sobrenome = `Meira`;
 
-let nomeCompleto = `${nome} ${sobrenome}`;
+const nomeCompleto = `${nome} ${sobrenome}`;
 console.log(nomeCompleto);
