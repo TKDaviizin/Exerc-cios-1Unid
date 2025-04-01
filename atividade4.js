@@ -1,4 +1,3 @@
-// Declaração de duas variáveis booleanas
 let var1 = true;
 let var2 = false;
 
